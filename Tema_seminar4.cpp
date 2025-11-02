@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//195353
+//01953
 
 class Student {
 	string nume;
@@ -124,4 +125,3 @@ int main()
 	cout << s;
 return 0;
 }
-
